@@ -1,5 +1,4 @@
-# Reactjs로 영화 웹 서비스 강의 듣고 웹 페이지 만들기
-
+# YBIGTA 컨퍼런스 음악리믹서 프로젝트
 ---
 # Getting Started with Create React App
 
